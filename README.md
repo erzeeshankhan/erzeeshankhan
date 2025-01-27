@@ -27,7 +27,7 @@ I'm a passionate Software Developer specializing in web development. I have expe
 
 Here are a few projects I've worked on: 🚧
 
-### [Project 1](https://github.com/erzeeshankhan/E_classroom)  
+### [E-Classroom](https://github.com/erzeeshankhan/E_classroom)  
 📌 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 
