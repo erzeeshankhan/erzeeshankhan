@@ -30,6 +30,11 @@ Here are a few projects I've worked on: 🚧
 ### [E-Classroom](https://github.com/erzeeshankhan/E_classroom)  
 📌 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
+### [ActionArc](https://actionarc.vercel.app/)
+- [GitHub Repo](https://github.com/erzeeshankhan/action-arc)  
+
+📌 ActionArc is a powerful project management tool designed to streamline workflows, enhance productivity, and facilitate efficient team collaboration. It features Kanban boards, sprint management, and issue tracking, providing a seamless experience for managing projects.
+
 
 ## 🌱 Currently Learning
 
